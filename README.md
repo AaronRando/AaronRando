@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Aarón Rando Rueda
+## 👋 Hola, soy Aarón Rando Rueda
 
-- 🎮 I'm passionate about AI, Videogames, and Emerging Technologies.
-- 🌱 I'm currently learning Web Development and expanding my programming skills.
-- 🎓 I hold a Higher Vocational Diploma in Web Application Development
-- 💻 I love experimenting with new frameworks, building projects, and solving problems.
-- 📧 You can reach me via [Gmail](mailto:aaronruedarando@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rando-rueda-6896021a1/)
+- 🎮 Desarrollador web orientado a crear soluciones claras, mantenibles y enfocadas en el usuario.
+- 🌱 Actualmente sigo ampliando mis conocimientos en desarrollo web y mejorando mis habilidades de programación.﻿
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web.﻿
+- 💻 Disfruto experimentando con nuevos frameworks, creando proyectos y resolviendo problemas del mundo real.﻿
+- 📧 Puedes contactar conmigo por [Gmail](mailto:aaronruedarando@gmail.com) o conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/aaron-rando-rueda-6896021a1/).
 
 ## 🛠️ Tech Stack
 
