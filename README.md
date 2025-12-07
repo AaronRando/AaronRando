@@ -1,7 +1,3 @@
-# 👋 Hi there!
-
-
-
 ## 👋 Hi, I'm Aarón Rando Rueda
 
 - 🎮 I'm passionate about AI, Videogames, and Emerging Technologies.
