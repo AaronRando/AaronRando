@@ -4,7 +4,7 @@
 - 🌱 Actualmente sigo ampliando mis conocimientos en desarrollo web y mejorando mis habilidades de programación.﻿
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web.﻿
 - 💻 Disfruto experimentando con nuevos frameworks, creando proyectos y resolviendo problemas del mundo real.﻿
-- 📧 Puedes contactar conmigo por [Gmail](mailto:aaronruedarando@gmail.com) o conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/aaron-rando-rueda-6896021a1/).
+- 📧 Puedes contactar conmigo por [Gmail](mailto:aaronruedarando@gmail.com) o conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/aarón-rando-rueda-6896021a1/).
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +21,7 @@
 
 ## 📱 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-rando-rueda-6896021a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarón-rando-rueda-6896021a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aaronruedarando@gmail.com)
 
 <picture>
